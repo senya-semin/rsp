@@ -1,0 +1,13 @@
+rock_agent
+paper_agent
+scissors_agent
+last_react_agent
+counter_reactionary_agent
+statisticaly_agent
+order_agent
+random_agent
+agentq
+agentsarsa
+agentnoepsilon
+agentlamda
+agentrare
